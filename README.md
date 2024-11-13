@@ -1,5 +1,5 @@
 # privacy_police
-Privacy Policy for MyWebViewApp
+Privacy Policy for Pmk Properti
 
 This Privacy Policy explains how we collect, use, and protect your information when you use our application, MyWebViewApp, which provides access to our website within a mobile app environment.
 
